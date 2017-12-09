@@ -19,6 +19,8 @@ cmdclock.exeをクリックで起動する…だけです。
 1.メモ帳やエディタとかで開きます。
 2.timealign=(right|center|left)…時間の表示の揃え方を変更します。
   debug=(true|false)           …デバッグモードを設定します。デバッグモード中はタイトル表示が変わります。
+  showdate=(true|false)        …
+  showprompt=(true|false)      …
 3.上書き保存で終了。
 
 ☆お問い合わせ先
@@ -26,5 +28,15 @@ cmdclock.exeをクリックで起動する…だけです。
 Twitter        … https://twitter.com/I_am_4a
 メールアドレス … mailto:ts3@f5.si
 GitHub         … https://github.com/Tateshiki0529/Command-Clock
+
+☆更新履歴
+2017/12/09 Ver.1
+- ファイル公開
+
+2017/12/09 Ver.2
+- コンフィグの変更
+-- showdateプロパティの追加
+-- showpromptプロパティの追加
+- バージョンチェック(内部)の追加
 
 Copyright (C) I_am_4a All Rights Reserved.
