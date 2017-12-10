@@ -9,7 +9,7 @@
 ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 
 ☆Command Clockとは？
-コマンド画面風のデジタル時計を表示できます。
+コマンドプロンプト風のデジタル時計を表示できます。
 ただそれだけです。
 
 ☆使い方
@@ -17,10 +17,11 @@ cmdclock.exeをクリックで起動する…だけです。
 
 ☆cmdclock.cfgについて
 1.メモ帳やエディタとかで開きます。
-2.timealign=(right|center|left)…時間の表示の揃え方を変更します。
-  debug=(true|false)           …デバッグモードを設定します。デバッグモード中はタイトル表示が変わります。
-  showdate=(true|false)        …
-  showprompt=(true|false)      …
+2.timealign=(right|center|left) … 時間の表示の揃え方を変更します。
+  debug=(true|false)            … デバッグモードを設定します。デバッグモード中はタイトル表示が変わります。
+  showdate=(true|false)         … 日付の表示を設定します。
+  showprompt=(true|false)       … コマンドプロンプト風の表示を設定します。
+  log=(true|false)              … ログを書き出します。
 3.上書き保存で終了。
 
 ☆お問い合わせ先
@@ -38,5 +39,9 @@ GitHub         … https://github.com/Tateshiki0529/Command-Clock
 -- showdateプロパティの追加
 -- showpromptプロパティの追加
 - バージョンチェック(内部)の追加
+
+2017/12/10 Ver.3
+- バージョンチェック(問い合わせ)機能を実装
+- Readme.txtのミスを修正
 
 Copyright (C) I_am_4a All Rights Reserved.
