@@ -1,53 +1,53 @@
-¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
-¡                                                                   ¡
-¡   ¡¡                             ¡        ¡¡  ¡¡             ¡    ¡
-¡  ¡                              ¡¡       ¡     ¡             ¡    ¡
-¡  ¡     ¡   ¡¡   ¡¡    ¡¡  ¡¡   ¡ ¡       ¡     ¡    ¡    ¡¡  ¡ ¡  ¡
-¡  ¡    ¡ ¡  ¡¡¡  ¡¡¡  ¡ ¡  ¡ ¡  ¡ ¡       ¡     ¡   ¡ ¡  ¡    ¡¡   ¡
-¡   ¡¡   ¡   ¡ ¡  ¡ ¡   ¡¡  ¡ ¡   ¡¡        ¡¡   ¡    ¡    ¡¡  ¡ ¡  ¡
-¡                                                                   ¡
-¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– 
+â– â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â– 
+â– â–¡â–¡â–¡â– â– â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â– â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â– â– â–¡â–¡â– â– â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â– â–¡â–¡â–¡â–¡â– 
+â– â–¡â–¡â– â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â– â– â–¡â–¡â–¡â–¡â–¡â–¡â–¡â– â–¡â–¡â–¡â–¡â–¡â– â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â– â–¡â–¡â–¡â–¡â– 
+â– â–¡â–¡â– â–¡â–¡â–¡â–¡â–¡â– â–¡â–¡â–¡â– â– â–¡â–¡â–¡â– â– â–¡â–¡â–¡â–¡â– â– â–¡â–¡â– â– â–¡â–¡â–¡â– â–¡â– â–¡â–¡â–¡â–¡â–¡â–¡â–¡â– â–¡â–¡â–¡â–¡â–¡â– â–¡â–¡â–¡â–¡â– â–¡â–¡â–¡â–¡â– â– â–¡â–¡â– â–¡â– â–¡â–¡â– 
+â– â–¡â–¡â– â–¡â–¡â–¡â–¡â– â–¡â– â–¡â–¡â– â– â– â–¡â–¡â– â– â– â–¡â–¡â– â–¡â– â–¡â–¡â– â–¡â– â–¡â–¡â– â–¡â– â–¡â–¡â–¡â–¡â–¡â–¡â–¡â– â–¡â–¡â–¡â–¡â–¡â– â–¡â–¡â–¡â– â–¡â– â–¡â–¡â– â–¡â–¡â–¡â–¡â– â– â–¡â–¡â–¡â– 
+â– â–¡â–¡â–¡â– â– â–¡â–¡â–¡â– â–¡â–¡â–¡â– â–¡â– â–¡â–¡â– â–¡â– â–¡â–¡â–¡â– â– â–¡â–¡â– â–¡â– â–¡â–¡â–¡â– â– â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â– â– â–¡â–¡â–¡â– â–¡â–¡â–¡â–¡â– â–¡â–¡â–¡â–¡â– â– â–¡â–¡â– â–¡â– â–¡â–¡â– 
+â– â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â–¡â– 
+â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– 
 
-™Command Clock‚Æ‚ÍH
-ƒRƒ}ƒ“ƒhƒvƒƒ“ƒvƒg•—‚ÌƒfƒWƒ^ƒ‹ŽžŒv‚ð•\Ž¦‚Å‚«‚Ü‚·B
-‚½‚¾‚»‚ê‚¾‚¯‚Å‚·B
+â˜†Command Clockã¨ã¯ï¼Ÿ
+ã‚³ãƒžãƒ³ãƒ‰ãƒ—ãƒ­ãƒ³ãƒ—ãƒˆé¢¨ã®ãƒ‡ã‚¸ã‚¿ãƒ«æ™‚è¨ˆã‚’è¡¨ç¤ºã§ãã¾ã™ã€‚
+ãŸã ãã‚Œã ã‘ã§ã™ã€‚
 
-™Žg‚¢•û
-cmdclock.exe‚ðƒNƒŠƒbƒN‚Å‹N“®‚·‚éc‚¾‚¯‚Å‚·B
+â˜†ä½¿ã„æ–¹
+cmdclock.exeã‚’ã‚¯ãƒªãƒƒã‚¯ã§èµ·å‹•ã™ã‚‹â€¦ã ã‘ã§ã™ã€‚
 
-™cmdclock.cfg‚É‚Â‚¢‚Ä
-1.ƒƒ‚’ ‚âƒGƒfƒBƒ^‚Æ‚©‚ÅŠJ‚«‚Ü‚·B
-2.timealign=(right|center|left) c ŽžŠÔ‚Ì•\Ž¦‚Ì‘µ‚¦•û‚ð•ÏX‚µ‚Ü‚·B
-  debug=(true|false)            c ƒfƒoƒbƒOƒ‚[ƒh‚ðÝ’è‚µ‚Ü‚·BƒfƒoƒbƒOƒ‚[ƒh’†‚Íƒ^ƒCƒgƒ‹•\Ž¦‚ª•Ï‚í‚è‚Ü‚·B
-  showprompt=(true|false)       c ƒRƒ}ƒ“ƒhƒvƒƒ“ƒvƒg•—‚Ì•\Ž¦‚ðÝ’è‚µ‚Ü‚·B
-  log=(true|false)              c ƒƒO‚ð‘‚«o‚µ‚Ü‚·B
-3.ã‘‚«•Û‘¶‚ÅI—¹B
+â˜†cmdclock.cfgã«ã¤ã„ã¦
+1.ãƒ¡ãƒ¢å¸³ã‚„ã‚¨ãƒ‡ã‚£ã‚¿ã¨ã‹ã§é–‹ãã¾ã™ã€‚
+2.timealign=(right|center|left) â€¦ æ™‚é–“ã®è¡¨ç¤ºã®æƒãˆæ–¹ã‚’å¤‰æ›´ã—ã¾ã™ã€‚
+  debug=(true|false)            â€¦ ãƒ‡ãƒãƒƒã‚°ãƒ¢ãƒ¼ãƒ‰ã‚’è¨­å®šã—ã¾ã™ã€‚ãƒ‡ãƒãƒƒã‚°ãƒ¢ãƒ¼ãƒ‰ä¸­ã¯ã‚¿ã‚¤ãƒˆãƒ«è¡¨ç¤ºãŒå¤‰ã‚ã‚Šã¾ã™ã€‚
+  showprompt=(true|false)       â€¦ ã‚³ãƒžãƒ³ãƒ‰ãƒ—ãƒ­ãƒ³ãƒ—ãƒˆé¢¨ã®è¡¨ç¤ºã‚’è¨­å®šã—ã¾ã™ã€‚
+  log=(true|false)              â€¦ ãƒ­ã‚°ã‚’æ›¸ãå‡ºã—ã¾ã™ã€‚
+3.ä¸Šæ›¸ãä¿å­˜ã§çµ‚äº†ã€‚
 
-™‚¨–â‚¢‡‚í‚¹æ
+â˜†ãŠå•ã„åˆã‚ã›å…ˆ
 
-Twitter        c https://twitter.com/I_am_4a
-ƒ[ƒ‹ƒAƒhƒŒƒX c mailto:ts3@f5.si
-GitHub         c https://github.com/Tateshiki0529/Command-Clock
+Twitter        â€¦ https://twitter.com/I_am_4a
+ãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹ â€¦ mailto:ts3@f5.si
+GitHub         â€¦ https://github.com/Tateshiki0529/Command-Clock
 
-™XV—š—ð
+â˜†æ›´æ–°å±¥æ­´
 2017/12/09 Ver.1
-- ƒtƒ@ƒCƒ‹ŒöŠJ
+- ãƒ•ã‚¡ã‚¤ãƒ«å…¬é–‹
 
 2017/12/09 Ver.2
-- ƒRƒ“ƒtƒBƒO‚Ì•ÏX
--- showdateƒvƒƒpƒeƒB‚Ì’Ç‰Á
--- showpromptƒvƒƒpƒeƒB‚Ì’Ç‰Á
-- ƒo[ƒWƒ‡ƒ“ƒ`ƒFƒbƒN(“à•”)‚Ì’Ç‰Á
+- ã‚³ãƒ³ãƒ•ã‚£ã‚°ã®å¤‰æ›´
+-- showdateãƒ—ãƒ­ãƒ‘ãƒ†ã‚£ã®è¿½åŠ 
+-- showpromptãƒ—ãƒ­ãƒ‘ãƒ†ã‚£ã®è¿½åŠ 
+- ãƒãƒ¼ã‚¸ãƒ§ãƒ³ãƒã‚§ãƒƒã‚¯(å†…éƒ¨)ã®è¿½åŠ 
 
 2017/12/10 Ver.3
-- ƒo[ƒWƒ‡ƒ“ƒ`ƒFƒbƒN(–â‚¢‡‚í‚¹)‹@”\‚ðŽÀ‘•
-- Readme.txt‚Ìƒ~ƒX‚ðC³
+- ãƒãƒ¼ã‚¸ãƒ§ãƒ³ãƒã‚§ãƒƒã‚¯(å•ã„åˆã‚ã›)æ©Ÿèƒ½ã‚’å®Ÿè£…
+- Readme.txtã®ãƒŸã‚¹ã‚’ä¿®æ­£
 
 2017/12/10 Ver.3.2
-- ƒXƒ^[ƒg‰æ–Ê‚Ì’Ç‰Á
--- ŽžŒv‹@”\‚Ì•ªŠ„
--- Ý’è‹@”\
---- ƒRƒ“ƒtƒBƒO‚ÌÝ’è•ÏXAƒZ[ƒu‹@”\ŽÀ‘•
-- ŽžŒv‹@”\‚ÌŽÀ‘•‚É”º‚¢AshowdateƒvƒƒpƒeƒB‚ðíœ
+- ã‚¹ã‚¿ãƒ¼ãƒˆç”»é¢ã®è¿½åŠ 
+-- æ™‚è¨ˆæ©Ÿèƒ½ã®åˆ†å‰²
+-- è¨­å®šæ©Ÿèƒ½
+--- ã‚³ãƒ³ãƒ•ã‚£ã‚°ã®è¨­å®šå¤‰æ›´ã€ã‚»ãƒ¼ãƒ–æ©Ÿèƒ½å®Ÿè£…
+- æ™‚è¨ˆæ©Ÿèƒ½ã®åˆ†å‰²ã®å®Ÿè£…ã«ä¼´ã„ã€showdateãƒ—ãƒ­ãƒ‘ãƒ†ã‚£ã‚’å‰Šé™¤
 
 Copyright (C) I_am_4a All Rights Reserved.
